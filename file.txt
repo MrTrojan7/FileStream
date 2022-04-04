@@ -1,10 +1,9 @@
-10 123.5  test! Fedko Vasya Vasilievich
+Fedko Vasya Vasilievich
 Chernyahovskogo 2
 123456789
- This is a text file 1010 123.5  test! Fedko Vasya Vasilievich
+Fedko Vasya Vasilievich
 Chernyahovskogo 2
 123456789
- This is a text file 1010 123.5  test! Fedko Vasya Vasilievich
+Fedko Vasya Vasilievich
 Chernyahovskogo 2
 123456789
- This is a text file 10
